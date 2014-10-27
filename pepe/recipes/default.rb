@@ -6,3 +6,4 @@
 #
 # 
 #
+Chef::Log.info('Todo OK')
